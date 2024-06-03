@@ -1,0 +1,14 @@
+{
+  "name": "N9 Records",
+  "short_name": "N9",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color":"#ffffff",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/2yZYJrS/N9-Records-IL.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+}
